@@ -12,6 +12,7 @@ export default defineNuxtConfig({
     '@pinia/nuxt',
     'nuxt-mapbox'
   ],
+  css: ['~/assets/css/main.css'],
   mapbox: {
     accessToken: 'pk.eyJ1IjoiZ291aXJhaCIsImEiOiJjbW84bHpkc3kwMnRtMnJzOThoN3N6b3BwIn0.0ICDsmDOtlIypgSFTyWYOw'
   }
