@@ -1,5 +1,5 @@
 <template>
   <div>
-    <p class="text-red-500">Bonjour</p>
+    <h1>Creators</h1>
   </div>
 </template>
